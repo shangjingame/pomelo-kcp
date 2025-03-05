@@ -4,8 +4,8 @@
   "description": "KCP protocol for pomelo",
   "main": "index.js",
   "dependencies": {
-    "node-kcp": "git://github.com/silverera/node-kcp.git#v1.0.11",
-    "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git"
+    "node-kcp": "https://github.com/shangjingame/node-kcp.git#v1.0.11",
+    "pomelo-protobuf": "https://github.com/shangjingame/pomelo-protobuf_silverera.git"
   },
   "devDependencies": {
   },
